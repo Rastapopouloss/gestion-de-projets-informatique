@@ -32,6 +32,6 @@ Déployer une application:
 
 <img width="450" alt="Push Branch" src="https://user-images.githubusercontent.com/74765462/104932622-1fedfb80-59a8-11eb-899d-05a332191c99.PNG">
 
-Vercel détecte automatiquement une pull request et créé un déploiment de type Preview
+Vercel détecte automatiquement une pull request et créé un déploiement de type Preview
 
-20 Vercel a créé un nouveau déploiment de type production
+20 Vercel a créé un nouveau déploiement de type production
