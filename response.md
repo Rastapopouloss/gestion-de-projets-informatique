@@ -34,4 +34,4 @@ Déployer une application:
 
 Vercel détecte automatiquement une pull request et créé un déploiment de type Preview
 
-20 
+20 Vercel a créé un nouveau déploiment de type production
