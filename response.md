@@ -35,3 +35,14 @@ Déployer une application:
 Vercel détecte automatiquement une pull request et créé un déploiement de type Preview
 
 20 Vercel a créé un nouveau déploiement de type production
+
+22 L'environnement de production correpson à la branche main. 
+
+Une pull request permet proposer des changements au responsable du dépôt. Le responsable du dépôt a la possibilité d'examiner les modifications et de les accepter, de les rejeter ou de demander que d'autres modifications soient apportées.
+
+Le workflow d'une feature est la représentation de la suite de tâches ou des opérations effectuées par les développeurs et les personnes ayant intervenu sur le code du projet.
+
+23 Le serveless est une représentation du cloud dans lequel le fournisseur du serveur gère dynamiquement les ressources allouées au service client.
+
+Le prix dépend des ressources effectivement consommées et non des capacités d'un serveur acheté à l'avance. Le serverless a pour avantage une évolutivité élevée, la disponibilité et un temps réduit pour développer et livrer les fonctionnalités du produit.
+
